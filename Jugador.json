@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "6412607e3942340f142860d4"
+  },
+  "nombre": "David",
+  "apellido": "Macalister",
+  "equipo": "Millonarios",
+  "dorsal": "14",
+  "cedula": "329238932",
+  "nacionalidad": "Colombiano",
+  "edad": "32"
+},{
+  "_id": {
+    "$oid": "6412607e3942340f142860d5"
+  },
+  "nombre": "Fernando",
+  "apellido": "Uribe",
+  "equipo": "Millonarios",
+  "dorsal": "20",
+  "cedula": "107384898",
+  "nacionalidad": "Colombiano",
+  "edad": 33
+},{
+  "_id": {
+    "$oid": "6412607e3942340f142860d6"
+  },
+  "nombre": "Andres",
+  "apellido": "Llinas",
+  "equipo": "Millonarios",
+  "dorsal": "3",
+  "cedula": "101534764387",
+  "nacionalidad": "Colombiano",
+  "edad": "22"
+},{
+  "_id": {
+    "$oid": "6412607e3942340f142860d7"
+  },
+  "nombre": "Daniel",
+  "apellido": "Giraldo",
+  "equipo": "Millonarios",
+  "dorsal": "8",
+  "cedula": "102032238",
+  "nacionalidad": "Colombiano",
+  "edad": "29"
+},{
+  "_id": {
+    "$oid": "641261723942340f142860d9"
+  },
+  "nombre": "Carlos",
+  "apellido": "Gomez",
+  "equipo": "America",
+  "dorsal": "14",
+  "cedula": "329238932",
+  "nacionalidad": "Colombiano",
+  "edad": "32"
+},{
+  "_id": {
+    "$oid": "641261723942340f142860da"
+  },
+  "nombre": "Andres",
+  "apellido": "Uribe",
+  "equipo": "America",
+  "dorsal": "20",
+  "cedula": "107384898",
+  "nacionalidad": "Colombiano",
+  "edad": 33
+},{
+  "_id": {
+    "$oid": "641261723942340f142860db"
+  },
+  "nombre": "Andres",
+  "apellido": "Llinas",
+  "equipo": "America",
+  "dorsal": "3",
+  "cedula": "101534764387",
+  "nacionalidad": "Colombiano",
+  "edad": "22"
+},{
+  "_id": {
+    "$oid": "641261723942340f142860dc"
+  },
+  "nombre": "Daniel",
+  "apellido": "Giraldo",
+  "equipo": "America",
+  "dorsal": "8",
+  "cedula": "102032238",
+  "nacionalidad": "Colombiano",
+  "edad": "29"
+}]

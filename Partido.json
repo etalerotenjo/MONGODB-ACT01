@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "641265aa3942340f142860f7"
+  },
+  "estadio": "Campin",
+  "horaIni": "0415",
+  "horaFin": "0610",
+  "equipo_local": "Millonarios",
+  "equipo_visitante": "America",
+  "equipo_ganador": "Millonarios",
+  "goles_local": "4",
+  "goles_visitante": "0",
+  "arbitro": "Oscar"
+},{
+  "_id": {
+    "$oid": "641265aa3942340f142860f8"
+  },
+  "estadio": "Atanasio",
+  "horaIni": "0615",
+  "horaFin": "0810",
+  "equipo_local": "Nacional",
+  "equipo_visitante": "Millonarios",
+  "equipo_ganador": "Empate",
+  "goles_local": "1",
+  "goles_visitante": "1",
+  "arbitro": "Oscar"
+}]

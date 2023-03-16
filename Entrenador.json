@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "641264613942340f142860e8"
+  },
+  "Nombre": "Alberto",
+  "Apellido": "Gamero",
+  "Edad": "55",
+  "Equipo": "Millonarios"
+},{
+  "_id": {
+    "$oid": "641264613942340f142860e9"
+  },
+  "Nombre": "Jose",
+  "Apellido": "Pokerman",
+  "Edad": "70",
+  "Equipo": "Nacional"
+},{
+  "_id": {
+    "$oid": "641264613942340f142860ea"
+  },
+  "Nombre": "Pitufo",
+  "Apellido": "Deavila",
+  "Edad": "70",
+  "Equipo": "America"
+},{
+  "_id": {
+    "$oid": "641264613942340f142860eb"
+  },
+  "Nombre": "Rodolfo",
+  "Apellido": "Hernandez",
+  "Edad": "80",
+  "Equipo": "Bucaramanga"
+}]

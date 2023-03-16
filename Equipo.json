@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "64125aa63942340f142860c3"
+  },
+  "nombre": "Millonarios",
+  "color": "Azul",
+  "anioFundacion": "1946",
+  "ciudad": "Bogotá"
+},{
+  "_id": {
+    "$oid": "64125aa63942340f142860c4"
+  },
+  "nombre": "America",
+  "color": "Rojo",
+  "anioFundacion": "1931",
+  "ciudad": "Cali"
+},{
+  "_id": {
+    "$oid": "64125aa63942340f142860c5"
+  },
+  "nombre": "Nacional",
+  "color": "Verde",
+  "anioFundacion": "1947",
+  "ciudad": "Medellin"
+},{
+  "_id": {
+    "$oid": "64125aa63942340f142860c6"
+  },
+  "nombre": "Bucaramanga",
+  "color": "Amarillo",
+  "anioFundacion": "1949",
+  "ciudad": "Bucaramanga"
+}]

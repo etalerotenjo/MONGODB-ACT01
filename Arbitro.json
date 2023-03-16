@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "641263a53942340f142860e4"
+  },
+  "nombre": "Oscar",
+  "apellido": "Ruiz",
+  "cedula": "298323",
+  "Edad": "40"
+},{
+  "_id": {
+    "$oid": "641263a53942340f142860e5"
+  },
+  "nombre": "Filipo",
+  "apellido": "Lavolpe",
+  "cedula": "567776",
+  "Edad": "32"
+}]

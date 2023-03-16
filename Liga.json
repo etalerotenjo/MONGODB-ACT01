@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "641266b23942340f142860fb"
+  },
+  "posicion": "1",
+  "equipo": "Millonarios",
+  "puntos": "4",
+  "golesFavor": "5",
+  "golesContra": "1",
+  "victorias": "1",
+  "empates": "1",
+  "derrotas": "0",
+  "partidos": "2"
+},{
+  "_id": {
+    "$oid": "641266b23942340f142860fc"
+  },
+  "posicion": "2",
+  "equipo": "Nacional",
+  "puntos": "1",
+  "golesFavor": "1",
+  "golesContra": "1",
+  "victorias": "0",
+  "empates": "1",
+  "derrotas": "0",
+  "partidos": "1"
+},{
+  "_id": {
+    "$oid": "641266b23942340f142860fd"
+  },
+  "posicion": "3",
+  "equipo": "America",
+  "puntos": "0",
+  "golesFavor": "0",
+  "golesContra": "4",
+  "victorias": "0",
+  "empates": "0",
+  "derrotas": "1",
+  "partidos": "1"
+},{
+  "_id": {
+    "$oid": "641266b23942340f142860fe"
+  },
+  "posicion": "4",
+  "equipo": "Bucaramanga",
+  "puntos": "0",
+  "golesFavor": "0",
+  "golesContra": "0",
+  "victorias": "0",
+  "empates": "0",
+  "derrotas": "0",
+  "partidos": "0"
+}]
